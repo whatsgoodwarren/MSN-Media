@@ -31,10 +31,7 @@ li a:hover:not(.active) {
     background-color: #111;
 }
 
-h3{
-    padding: 200px 16px;
-    color: rgb(0, 0, 0);
-}
+
 
 h1{
     text-align: center;
@@ -49,3 +46,26 @@ img {
     width: 40px;
   
    }
+
+div{
+    height:16px;
+ display: inline-block; 
+ max-height:16px; 
+ padding: 100px 200px;
+ margin-top:18px; 
+ font-size:1em; 
+ letter-spacing:-0.02em;
+  position:relative;
+  text-align: left;
+  direction: rtl;
+  color: rgb(0, 0, 0);
+  width: 320px;
+  height: 50px;
+  float: left;
+  
+  
+  margin: 0;
+
+
+ 
+}   

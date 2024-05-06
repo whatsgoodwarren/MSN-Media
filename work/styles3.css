@@ -35,4 +35,9 @@ li a:hover:not(.active) {
 img {
     width: 40px; 
   
-   }
+}
+
+h2{
+    text-align: center;
+
+}
