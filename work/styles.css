@@ -97,3 +97,28 @@ html {
   height: 600px;
   background-color: #E5B80B;
 }
+
+#h5_section2_text{
+  font-size: 19.9px;
+  border:0px ;
+  float:left;
+  text-align: left;
+  width:40%;
+  padding: 10px 60px;
+
+
+}
+
+#h5_section3_text{
+  padding: 10px 60px;
+}
+
+#h2_section3_text{
+
+  width:40%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+  text-align: left;
+  padding: 60px 60px;
+
+}
