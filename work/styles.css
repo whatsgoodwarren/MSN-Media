@@ -44,12 +44,6 @@ h2{
   padding: 200px;
 }
 
-img {
-  width: 40px;
-  padding: 0px;
-  
-
-}
 
 html {
   scroll-behavior: smooth;
@@ -57,10 +51,34 @@ html {
 
 #section1 {
   height: 600px;
-  background-color: pink;
+  background-color: #161310;
 }
 
 #section2 {
   height: 600px;
   background-color: yellow;
+}
+
+#section1_words{
+text-align: left;
+padding: 60px 0px;
+float:left;
+font-size: 30px;
+align-items: middle;
+font-style: Palatino, URW Palladio L, serif;
+white-space : normal;
+color: white;
+
+}
+
+#logo{
+  
+  padding: 10px 0px;
+  display: flex;
+  align-items: middle;
+  
+  
+  
+
+
 }
