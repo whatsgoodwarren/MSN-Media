@@ -69,6 +69,7 @@ font-style: Palatino, URW Palladio L, serif;
 white-space : normal;
 color: white;
 
+
 }
 
 #logo{
@@ -80,5 +81,10 @@ color: white;
   
   
 
+
+}
+
+#section2_h1{
+  font-size: 60px;
 
 }
