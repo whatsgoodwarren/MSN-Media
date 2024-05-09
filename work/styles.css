@@ -48,30 +48,52 @@ html {
 
 #section1 {
   height: 600px;
-  background-color: pink;
+  background-color:#161310;
 }
 
 #section2 {
   height: 600px;
-  background-color: yellow;
+  background-color: #F8EEEC;
 }
 
 #class_section1_text {
-  
-  padding: 60px 60px;
-  
-  margin:auto;
-  font-size: 30px;
   text-align: left;
- 
+  padding: 60px 60px;
+  float:right;
+  margin:auto;
+  font-size: 50px;
+  text-align: left;
+  align-items: middle;
+  border:0px ;
+  border-width: thick;
+  width:40%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #E5B80B;
+
 
 
 }
 
-img{
+#logo{
   vertical-align:right;
-  padding: 1px 60px;
+  padding: 10px 60px;
   width: 420px;
-  float: right;
+  align-items: middle;
+  
 
+}
+
+#h2_section2_text{
+  width:40%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  padding: 20px 380px;
+
+
+}
+
+#section3{
+  height: 600px;
+  background-color: #E5B80B;
 }
