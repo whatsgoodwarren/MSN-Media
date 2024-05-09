@@ -39,17 +39,8 @@ li a:hover:not(.active) {
   background-color: #111;
 }
 
-h2{
-  text-align: center;
-  padding: 200px;
-}
 
-img {
-  width: 40px;
-  padding: 0px;
-  
 
-}
 
 html {
   scroll-behavior: smooth;
@@ -63,4 +54,24 @@ html {
 #section2 {
   height: 600px;
   background-color: yellow;
+}
+
+#class_section1_text {
+  
+  padding: 60px 60px;
+  
+  margin:auto;
+  font-size: 30px;
+  text-align: left;
+ 
+
+
+}
+
+img{
+  vertical-align:right;
+  padding: 1px 60px;
+  width: 420px;
+  float: right;
+
 }
