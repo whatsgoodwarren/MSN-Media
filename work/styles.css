@@ -163,4 +163,16 @@ html {
 
 }
 
+#section4{
+  border: 300px rgb(216, 117, 81) solid;
+  text-align: center;
+  padding: 0px;
+  
+
+}
+
+.wrapper {
+  display: grid;
+}
+
 
